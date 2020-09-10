@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 记忆海洋里的珍珠
+subtitle: 这世界匆匆而过的旅客
 ---
 
 <div>
