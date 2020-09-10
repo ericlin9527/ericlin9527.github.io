@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>不要期待光的到来，要自己成为光</p>
-	<p>原地传送点 <strong> <a href="https://github.com/ericlin9527.github.io"> 这里</a> </strong></p>
+	<p>原地传送点 <strong> <a href="https://ericlin9527.github.io"> 这里</a> </strong></p>
 </div>
