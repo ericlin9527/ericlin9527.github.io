@@ -8,7 +8,7 @@ subtitle: 一条尝试翻身但已烧糊的咸鱼
 <br>
 
 ### 我掌握的技能
-```  有说明书前提下家具的简单组装更换，修自行车，家常菜烹饪，顽强地或者 ```  
+```  有说明书前提下家具的简单组装更换，修自行车，家常菜烹饪，顽强地活着 ```  
 
 ### 完成过的项目
 **项目名** - 说明 - 地点 <span style="float: right; ">时间</span>  
@@ -17,32 +17,16 @@ subtitle: 一条尝试翻身但已烧糊的咸鱼
 
 ### 受教育情况
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+小学     南田小学             入学 毕业时间：2006.09 ——  2012.7
  
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+初中     桑田初级中学         入学 毕业时间：2012.09 ——  2015.7
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+高中     潮师高级中学         入学 毕业时间：2015.09 ——  2018.7
+ 
+大学     私立华联学院         入学 毕业时间：2018.09 ——  2021.7
 
 ### 个人经历
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
- 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
 
 
 ### 业余兴趣爱好
