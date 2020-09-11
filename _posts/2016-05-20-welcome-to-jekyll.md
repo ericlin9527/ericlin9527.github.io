@@ -2,7 +2,7 @@
 layout: page
 title:  "第一篇博客"
 subtitle: "小白上线"
-date:   2016-05-20 21:21:21 +0530
+date:   2020/09/10 17:41:06 +0530
 categories: ["闲谈"]
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
