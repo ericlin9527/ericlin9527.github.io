@@ -2,7 +2,6 @@
 layout: self
 title: 杂谈留言板
 subtitle: 吹水用
-liziyue: 李子越大帅哥
 ---
 
 <div>
